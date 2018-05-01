@@ -1,8 +1,8 @@
 # statistics_service
 Statistics Service maintains realtime statistics of transactions executed in last 60 seconds.
 
-#Build
+#Build<br>
 mvn clean install
 
-#Run
+#Run<br>
 mvn spring-boot:run

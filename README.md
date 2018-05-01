@@ -2,10 +2,10 @@
 Statistics Service maintains realtime statistics of transactions executed in last 60 seconds.
 
 ## Build
-mvn clean install
+    mvn clean install
 
 ## Run
-mvn spring-boot:run
+    mvn spring-boot:run
 
 ### POST /transaction
     curl -sv -H "Content-type: application/json" -d '{
